@@ -133,5 +133,5 @@ function writePassword() {
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
-console.log("bello");
-console.log("1324");
+console.log("copyofmain");
+console.log("1425+6");

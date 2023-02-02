@@ -134,4 +134,3 @@ function writePassword() {
 generateBtn.addEventListener("click", writePassword);
 
 console.log("copyofmain");
-console.log("1425+6");
